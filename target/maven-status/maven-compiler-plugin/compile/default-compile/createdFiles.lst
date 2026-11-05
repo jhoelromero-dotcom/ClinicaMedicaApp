@@ -1,0 +1,7 @@
+com\mycompany\clinicamedicaapp\ConexionBD.class
+modelo\Medico.class
+modelo\Paciente.class
+modelo\Persona.class
+com\mycompany\clinicamedicaapp\ClinicaMedicaApp.class
+modelo\Cita.class
+modelo\Especialidad.class
