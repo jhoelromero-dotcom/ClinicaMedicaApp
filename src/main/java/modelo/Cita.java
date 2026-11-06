@@ -33,4 +33,8 @@ public class Cita {
     public LocalTime getHora() { return hora; }
     public String getMotivo() { return motivo; }
     public String getEstado() { return estado; }
+
+    public void setEstado(String estado) {
+        this.estado = estado;
+    }
 }
